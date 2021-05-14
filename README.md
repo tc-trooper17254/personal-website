@@ -16,6 +16,7 @@ I am using HTML5 Boilerplate and generate this format with the tool [create-html
 
 ## Todo
 * CSS!
+* Figure out Apache
 
 - tc-trooper17254
 
