@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    tc-trooper17254 - Developer - github:@tc-trooper17254
 
 # THANKS
 
-    <name>
+    My buddy @paill
 
 # TECHNOLOGY COLOPHON
 
