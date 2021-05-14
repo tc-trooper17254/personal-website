@@ -10,7 +10,6 @@ I am using HTML5 Boilerplate and generate this format with the tool [create-html
 
 ## Todo
 * meme page
-* move images
 * CSS!
 
 - tc-trooper17254
