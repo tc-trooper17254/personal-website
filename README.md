@@ -9,7 +9,6 @@ I am using HTML5 Boilerplate and generate this format with the tool [create-html
 * npm is used to run the site
 
 ## Todo
-* meme page
 * CSS!
 
 - tc-trooper17254
